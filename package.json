@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/webfont.hero",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Package for integrating WebFont Hero",
   "main": "hero.css",
   "scripts": {

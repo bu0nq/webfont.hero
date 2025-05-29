@@ -78,16 +78,16 @@ body {
 ### Importing
 
 ```scss
-@import "~@bu0nq/webfont.hero/scss/hero";
-@import "~@bu0nq/webfont.hero/scss/hero-normal";
+@use "~@bu0nq/webfont.hero/scss/hero";
+@use "~@bu0nq/webfont.hero/scss/hero-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@import "~@bu0nq/webfont.hero/scss/hero-200-normal";
-@import "~@bu0nq/webfont.hero/scss/hero-400-normal";
-@import "~@bu0nq/webfont.hero/scss/hero-700-normal";
+@use "~@bu0nq/webfont.hero/scss/hero-200-normal";
+@use "~@bu0nq/webfont.hero/scss/hero-400-normal";
+@use "~@bu0nq/webfont.hero/scss/hero-700-normal";
 ```
 
 ## Licensing
